@@ -1,4 +1,4 @@
-# Smart Resource Allocation Platform
+# Smart Resource Allocation Engine
 
 A full-stack web application that intelligently matches volunteers to tasks based on **skills**, **distance**, and **priority** using a weighted scoring algorithm.
 
